@@ -34,3 +34,6 @@
 [IDE] 2020-12-29 09:40:20.984 MDLIFE[4611:237250] [login] md.closeFrame  {}
 [IDE] 2020-12-29 10:22:20.827 MDLIFE[4611:237250] [root] md.setFrameGroupIndex  {  "scroll" : false,  "reload" : false,  "name" : "homeGroup",  "index" : 1}
 [IDE] 2020-12-29 10:22:20.879 MDLIFE[4611:237266] [ConsoleMsg] page2发生改变 | 索引:1
+[IDE] 2020-12-29 11:29:26.817 MDLIFE[4611:237250] 程序失去焦点
+[IDE] 2020-12-29 11:29:26.821 MDLIFE[4611:237250] 程序进入后台
+[IDE] 2020-12-29 11:29:26.941 MDLIFE[4611:237250] Can't end BackgroundTask: no background task exists with identifier 3 (0x3), or it may have already been ended. Break in UIApplicationEndBackgroundTaskError() to debug.
